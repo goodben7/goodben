@@ -9,6 +9,10 @@
 }
 
 
+h1 {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
 
 .cardbody-color{
   background-color: #ebf2fa;
